@@ -1,5 +1,5 @@
 // GitHub API functions
-const GITHUB_ORG = 'mwecauictclub';
+const GITHUB_ORG = 'mwecauict-club';
 const GITHUB_API_BASE = 'https://api.github.com';
 
 async function getRepos() {
